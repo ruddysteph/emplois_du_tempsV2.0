@@ -1,0 +1,27 @@
+\section{emplois.\+cpp File Reference}
+\label{emplois_8cpp}\index{emplois.\+cpp@{emplois.\+cpp}}
+{\ttfamily \#include $<$iostream$>$}\\*
+{\ttfamily \#include $<$cstdlib$>$}\\*
+{\ttfamily \#include $<$fstream$>$}\\*
+Include dependency graph for emplois.\+cpp\+:
+% FIG 0
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int {\bf main} (int argc, char $\ast$argv[$\,$])
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\index{emplois.\+cpp@{emplois.\+cpp}!main@{main}}
+\index{main@{main}!emplois.\+cpp@{emplois.\+cpp}}
+\subsubsection[{main(int argc, char $\ast$argv[])}]{\setlength{\rightskip}{0pt plus 5cm}int main (
+\begin{DoxyParamCaption}
+\item[{int}]{argc, }
+\item[{char $\ast$}]{argv[$\,$]}
+\end{DoxyParamCaption}
+)}\label{emplois_8cpp_a0ddf1224851353fc92bfbff6f499fa97}
+
+
+Definition at line 5 of file emplois.\+cpp.
+
